@@ -1,0 +1,38 @@
+DEMONSTRATIONE. 19⁵
+
+ad
+
+oE Nullum Β est A
+{A Omne C est B: Ergo
+rEnt Nullum C est A.
+
+dle Aliquod B est A
+Am Omne B est C: Ergo
+Ie Aliquod C est A.
+
+ad
+dA Omne B est C
+rI Aliquod A est B: Ergo
+1 Aliquod A est C.
+
+oAr Omne A est Β
+On Aliquod CnonestB: Ergo
+O Aliquod Cnon est A.
+od
+bAr Omne A est B
+uA Omne C est A: Ergo
+
+Ι ·’ rA Omne Cest Β.
+
+dOlc Aliquod BnonestA
+Am Omne B est C: Ergo
+
+On Aliquod Cnon est A.
+ad
+
+dAr Omne Β est C
+I Aliquod non-A est B: Ergo
+1 Aliquod non-A est C.
+
+ 
+
